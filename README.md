@@ -1,1 +1,1 @@
-#Python built game based on Alpha Beta Pruning
+# Python built game based on Alpha Beta Pruning
